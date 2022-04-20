@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @akash701752
-- 👀 I’m interested in Coding 
-- 🌱 I’m currently learning C/C++/Python
+- 👀 I’m interested in Coding
+- Eat | Code | Sleep | Repeat 
+- 🌱 I’m currently learning C/C++/Python/Java
 - 💞️ 
 
 <!---
