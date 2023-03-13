@@ -1,7 +1,10 @@
 - 👋 Hi, I’m @akash701752
 - 👀 I’m tech enthusiast
+- Web Developer | ReactJs | AI | ML
 - Eat | Code | Sleep | Repeat 
-- 🌱 I’m currently learning C/C++/Python/Java
+- 🌱 Proficient in C/C++
+- Java | Python | C | C++
+- 3★ Leetcode
 - 💞️ 
 
 <!---
